@@ -13,23 +13,12 @@
 - name: Lakeshore
   logo: /assets/images/hydrovac/clients/lakeshore-logo.png
 
-- name: City of Windsor
-  logo: /assets/images/hydrovac/clients/city-of-windsor-logo.png
+- name: SCI
+  logo: /assets/images/hydrovac/clients/sentrex-comm-logo.png
 
-- name: Countty of Essex
-  logo: /assets/images/hydrovac/clients/essex-county-logo.png
+- name: Essex Powerlines
+  logo: /assets/images/hydrovac/clients/essex-power-logo.png
 
 - name: Extreme Drilling
   logo: /assets/images/hydrovac/clients/extreme-drilling-logo.png
 
-- name: Hybrid Utilities
-  logo: /assets/images/hydrovac/clients/hybrid-utilities-logo-1.png
-
-- name: Pickard Construction
-  logo: /assets/images/hydrovac/clients/pickard-construction-logo.png
-
-- name: Jaar Excavating
-  logo: /assets/images/hydrovac/clients/jaar-logo.png
-
-- name: SCI
-  logo: /assets/images/hydrovac/clients/sentrex-comm-logo.png
