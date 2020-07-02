@@ -185,16 +185,17 @@ header {
     padding: 0px;
     display: none;
     top: 12px;
+
     
     .full-header-nav-button {
       padding: 5px 18px;
       text-decoration: none;
       
-      color: $brand-color;
+      color: #fff;
       font-weight: 600;
       position: relative;
       span {
-        color: #222;
+        color: #fff;
       }
     }
     @media (max-width: 1200px){
