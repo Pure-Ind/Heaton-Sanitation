@@ -69,12 +69,11 @@ $brand-color:#c23f36 !default;
         }
     }
     .person-description {
+        margin: 0 auto;
         justify-content: center;
         display: flex;
         flex-direction: column;
-        h2,h3 {
-            text-align: left!important;
-        }
+        
         
     }
 }
