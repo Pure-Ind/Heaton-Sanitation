@@ -152,6 +152,9 @@
       right: 0;
       display: flex;
       top: 0;
+      @media (max-width: 1200px){
+        display: none;
+      }
     }
   }
   &-large {
